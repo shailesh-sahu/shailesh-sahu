@@ -24,12 +24,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🌟 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shailesh-sahu&repo=awesome-project)](https://github.com/shailesh-sahu/awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shailesh-sahu&repo=another-cool-project)](https://github.com/shailesh-sahu/another-cool-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shailesh-sahu&repo=awesome-project)](https://github.com/shailesh-sahu/work)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shailesh-sahu&repo=another-cool-project)](https://github.com/shailesh-sahu/frontend)
 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/shailesh-sahu)
-- [Twitter](https://twitter.com/shailesh_sahu)
+- [Twitter](https://twitter.com/Shailesh_sahu)
 
 Thank you for visiting my profile! Have a great day! 😊
