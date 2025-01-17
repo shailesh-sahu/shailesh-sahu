@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🌟 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shailesh-sahu&repo=awesome-project)](https://github.com/shailesh-sahu/work)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shailesh-sahu&repo=another-cool-project)](https://github.com/shailesh-sahu/frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shailesh-sahu&repo=work)](https://github.com/shailesh-sahu/work)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shailesh-sahu&repo=frontend)](https://github.com/shailesh-sahu/frontend)
 
 ## 📫 Connect with Me
 
